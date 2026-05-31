@@ -81,6 +81,8 @@
 
 - **[Lunar.dev MCPX](https://www.lunar.dev/)** - Lightweight, unified enterprise gateway to orchestrate and secure your MCP ecosystem. 🆓 📜 🔑
 
+- **[Magertron](https://magertron.com)** - Kubernetes-native MCP Orchestrator: enterprise grade, admin UI for tool discovery, design/run-time governance (RUG), per-tool RBAC, OCSF, SSO/SCIM. 🆓 🔑 🛡️
+
 - **[MCP Context Forge](https://github.com/IBM/mcp-context-forge)** - Feature-rich MCP gateway, proxy, and registry built on FastAPI - unifies discovery, auth, rate-limiting, virtual servers, and observability. 🆓
 
 - **[MCP Jungle](https://github.com/mcpjungle/MCPJungle)** - Self-hosted MCP registry and gateway for AI agents; single source of truth for your organization's MCP servers. 🧪
